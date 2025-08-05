@@ -1,0 +1,8 @@
+D:\TestTaskForCaspel\BookStoreApi\obj\Debug\net8.0\BookStoreApi.csproj.AssemblyReference.cache
+D:\TestTaskForCaspel\BookStoreApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\TestTaskForCaspel\BookStoreApi\obj\Debug\net8.0\BookStoreApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestTaskForCaspel\BookStoreApi\obj\Debug\net8.0\BookStoreApi.AssemblyInfoInputs.cache
+D:\TestTaskForCaspel\BookStoreApi\obj\Debug\net8.0\BookStoreApi.AssemblyInfo.cs
+D:\TestTaskForCaspel\BookStoreApi\obj\Debug\net8.0\BookStoreApi.csproj.CoreCompileInputs.cache
+D:\TestTaskForCaspel\BookStoreApi\obj\Debug\net8.0\BookStoreApi.MvcApplicationPartsAssemblyInfo.cs
+D:\TestTaskForCaspel\BookStoreApi\obj\Debug\net8.0\BookStoreApi.MvcApplicationPartsAssemblyInfo.cache
