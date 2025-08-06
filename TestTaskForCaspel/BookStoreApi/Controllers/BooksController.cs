@@ -1,12 +1,43 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using BookStoreApi.Models;
+using BookStoreApi.Services;
+using Microsoft.AspNetCore.Mvc;
 
 namespace BookStoreApi.Controllers
 {
-    public class BooksController : Controller
+    [ApiController]
+    [Route("api/[controller]")]
+    public class BooksController : ControllerBase
     {
-        public IActionResult Index()
+        private readonly BookService _bookService;
+
+        public BooksController(BookService bookService)
         {
-            return View();
+            _bookService = bookService;
+        }
+
+        /// <summary>
+        /// Получить список книг с фильтрацией по названию и/или дате выхода
+        /// </summary>
+        [HttpGet]
+        public async Task<ActionResult<IEnumerable<BookDto>>> GetBooks(
+            [FromQuery] string? title,
+            [FromQuery] DateTime? releaseDate)
+        {
+            var books = await _bookService.GetBooksAsync(title, releaseDate);
+            return Ok(books);
+        }
+
+        /// <summary>
+        /// Получить книгу по ID
+        /// </summary>
+        [HttpGet("{id}")]
+        public async Task<ActionResult<BookDto>> GetBookById(int id)
+        {
+            var book = await _bookService.GetBookByIdAsync(id);
+            if (book == null)
+                return NotFound();
+
+            return Ok(book);
         }
     }
 }

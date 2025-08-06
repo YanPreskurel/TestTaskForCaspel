@@ -1,41 +1,46 @@
 using AutoMapper;
-using BookStoreApi.Mappings;
 using BookStoreApi.Entities;
+using BookStoreApi.Mappings;
+using BookStoreApi.Middleware;
 using BookStoreApi.Repositories;
+using BookStoreApi.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateSlimBuilder(args);
 
-builder.Services.ConfigureHttpJsonOptions(options =>
-{
-    options.SerializerOptions.TypeInfoResolverChain.Insert(0, AppJsonSerializerContext.Default);
-});
+//builder.Services.ConfigureHttpJsonOptions(options =>
+//{
+//    options.SerializerOptions.TypeInfoResolverChain.Insert(0, AppJsonSerializerContext.Default);
+//});
 
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-var mapperConfig = new MapperConfiguration(cfg =>
-{
-    cfg.AddProfile(new AutoMapperProfile());
-});
-
-IMapper mapper = mapperConfig.CreateMapper();
-builder.Services.AddSingleton(mapper);
-
-
 builder.Services.AddScoped<IBookRepository, BookRepository>();
 builder.Services.AddScoped<IOrderRepository, OrderRepository>();
+
+builder.Services.AddScoped<BookService>();
+builder.Services.AddScoped<OrderService>();
+
+builder.Services.AddControllers();
+
+
+builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
+app.UseMiddleware<ExceptionHandlingMiddleware>();
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseHttpsRedirection();
 
 //app.MapGet("/books", async (IBookRepository repo, string? title, DateTime? releaseDate) =>
 //{
@@ -60,5 +65,5 @@ if (app.Environment.IsDevelopment())
 //    var orderId = await repo.CreateOrderAsync(model);
 //    return Results.Created($"/orders/{orderId}", null);
 //});
-
+app.MapControllers();
 app.Run();

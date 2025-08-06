@@ -7,8 +7,44 @@
       "RelativeMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|d:\\testtaskforcaspel\\bookstoreapi\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|solutionrelative:middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|d:\\testtaskforcaspel\\bookstoreapi\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|solutionrelative:repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|d:\\testtaskforcaspel\\bookstoreapi\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|solutionrelative:repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|d:\\testtaskforcaspel\\bookstoreapi\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|d:\\testtaskforcaspel\\bookstoreapi\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|solutionrelative:entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|d:\\testtaskforcaspel\\bookstoreapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|d:\\testtaskforcaspel\\bookstoreapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|d:\\testtaskforcaspel\\bookstoreapi\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|solutionrelative:mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|d:\\testtaskforcaspel\\bookstoreapi\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|solutionrelative:entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|d:\\testtaskforcaspel\\bookstoreapi\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|solutionrelative:entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|d:\\testtaskforcaspel\\bookstoreapi\\models\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,16 +59,8 @@
       "RelativeMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|solutionrelative:models\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|d:\\testtaskforcaspel\\bookstoreapi\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|solutionrelative:entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|d:\\testtaskforcaspel\\bookstoreapi\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|solutionrelative:repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|d:\\testtaskforcaspel\\bookstoreapi\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|solutionrelative:repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|d:\\testtaskforcaspel\\bookstoreapi\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|solutionrelative:services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|d:\\testtaskforcaspel\\bookstoreapi\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,18 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|d:\\testtaskforcaspel\\bookstoreapi\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|solutionrelative:repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|d:\\testtaskforcaspel\\bookstoreapi\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|solutionrelative:entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|d:\\testtaskforcaspel\\bookstoreapi\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|solutionrelative:entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|d:\\testtaskforcaspel\\bookstoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C98C3F3-32A4-4863-8D48-A441E3EB28A4}|BookStoreApi.csproj|d:\\testtaskforcaspel\\bookstoreapi\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,8 +82,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 145,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\TestTaskForCaspel\\BookStoreApi\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "D:\\TestTaskForCaspel\\BookStoreApi\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T16:31:11.272Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -76,66 +113,53 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\TestTaskForCaspel\\BookStoreApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T15:22:02.374Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AutoMapperProfile.cs",
-              "DocumentMoniker": "D:\\TestTaskForCaspel\\BookStoreApi\\Mappings\\AutoMapperProfile.cs",
-              "RelativeDocumentMoniker": "Mappings\\AutoMapperProfile.cs",
-              "ToolTip": "D:\\TestTaskForCaspel\\BookStoreApi\\Mappings\\AutoMapperProfile.cs",
-              "RelativeToolTip": "Mappings\\AutoMapperProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\TestTaskForCaspel\\BookStoreApi\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BookRepository.cs",
+              "ToolTip": "D:\\TestTaskForCaspel\\BookStoreApi\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T17:34:08.782Z",
+              "WhenOpened": "2025-08-05T15:48:30.259Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "OrderDto.cs",
-              "DocumentMoniker": "D:\\TestTaskForCaspel\\BookStoreApi\\Models\\OrderDto.cs",
-              "RelativeDocumentMoniker": "Models\\OrderDto.cs",
-              "ToolTip": "D:\\TestTaskForCaspel\\BookStoreApi\\Models\\OrderDto.cs",
-              "RelativeToolTip": "Models\\OrderDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\TestTaskForCaspel\\BookStoreApi\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\OrderRepository.cs",
+              "ToolTip": "D:\\TestTaskForCaspel\\BookStoreApi\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T17:27:56.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderCreateModel.cs",
-              "DocumentMoniker": "D:\\TestTaskForCaspel\\BookStoreApi\\Models\\OrderCreateModel.cs",
-              "RelativeDocumentMoniker": "Models\\OrderCreateModel.cs",
-              "ToolTip": "D:\\TestTaskForCaspel\\BookStoreApi\\Models\\OrderCreateModel.cs",
-              "RelativeToolTip": "Models\\OrderCreateModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T17:27:17.031Z",
+              "WhenOpened": "2025-08-05T16:00:25.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "BookDto.cs",
-              "DocumentMoniker": "D:\\TestTaskForCaspel\\BookStoreApi\\Models\\BookDto.cs",
-              "RelativeDocumentMoniker": "Models\\BookDto.cs",
-              "ToolTip": "D:\\TestTaskForCaspel\\BookStoreApi\\Models\\BookDto.cs",
-              "RelativeToolTip": "Models\\BookDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\TestTaskForCaspel\\BookStoreApi\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "D:\\TestTaskForCaspel\\BookStoreApi\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAD4vx0AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T17:26:28.283Z",
+              "WhenOpened": "2025-08-05T17:58:20.801Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "Order.cs",
               "DocumentMoniker": "D:\\TestTaskForCaspel\\BookStoreApi\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "Entities\\Order.cs",
@@ -148,7 +172,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\TestTaskForCaspel\\BookStoreApi\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\TestTaskForCaspel\\BookStoreApi\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T15:05:09.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\TestTaskForCaspel\\BookStoreApi\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "D:\\TestTaskForCaspel\\BookStoreApi\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T17:55:55.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "D:\\TestTaskForCaspel\\BookStoreApi\\Mappings\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Mappings\\AutoMapperProfile.cs",
+              "ToolTip": "D:\\TestTaskForCaspel\\BookStoreApi\\Mappings\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Mappings\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T17:34:08.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Book.cs",
               "DocumentMoniker": "D:\\TestTaskForCaspel\\BookStoreApi\\Entities\\Book.cs",
               "RelativeDocumentMoniker": "Entities\\Book.cs",
@@ -161,46 +224,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "D:\\TestTaskForCaspel\\BookStoreApi\\Repositories\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\OrderRepository.cs",
-              "ToolTip": "D:\\TestTaskForCaspel\\BookStoreApi\\Repositories\\OrderRepository.cs",
-              "RelativeToolTip": "Repositories\\OrderRepository.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAAA+AAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\TestTaskForCaspel\\BookStoreApi\\Entities\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Entities\\AppDbContext.cs",
+              "ToolTip": "D:\\TestTaskForCaspel\\BookStoreApi\\Entities\\AppDbContext.cs",
+              "RelativeToolTip": "Entities\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T16:00:25.184Z",
+              "WhenOpened": "2025-08-05T15:36:10.229Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "D:\\TestTaskForCaspel\\BookStoreApi\\Models\\OrderDto.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDto.cs",
+              "ToolTip": "D:\\TestTaskForCaspel\\BookStoreApi\\Models\\OrderDto.cs",
+              "RelativeToolTip": "Models\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T15:32:49.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "IOrderRepository.cs",
               "DocumentMoniker": "D:\\TestTaskForCaspel\\BookStoreApi\\Repositories\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IOrderRepository.cs",
               "ToolTip": "D:\\TestTaskForCaspel\\BookStoreApi\\Repositories\\IOrderRepository.cs",
               "RelativeToolTip": "Repositories\\IOrderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T15:59:46.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T15:59:46.08Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BookRepository.cs",
-              "DocumentMoniker": "D:\\TestTaskForCaspel\\BookStoreApi\\Repositories\\BookRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\BookRepository.cs",
-              "ToolTip": "D:\\TestTaskForCaspel\\BookStoreApi\\Repositories\\BookRepository.cs",
-              "RelativeToolTip": "Repositories\\BookRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "D:\\TestTaskForCaspel\\BookStoreApi\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Services\\BookService.cs",
+              "ToolTip": "D:\\TestTaskForCaspel\\BookStoreApi\\Services\\BookService.cs",
+              "RelativeToolTip": "Services\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T15:48:30.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T17:54:42.655Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
+              "Title": "OrderCreateModel.cs",
+              "DocumentMoniker": "D:\\TestTaskForCaspel\\BookStoreApi\\Models\\OrderCreateModel.cs",
+              "RelativeDocumentMoniker": "Models\\OrderCreateModel.cs",
+              "ToolTip": "D:\\TestTaskForCaspel\\BookStoreApi\\Models\\OrderCreateModel.cs",
+              "RelativeToolTip": "Models\\OrderCreateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:52:30.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "D:\\TestTaskForCaspel\\BookStoreApi\\Models\\BookDto.cs",
+              "RelativeDocumentMoniker": "Models\\BookDto.cs",
+              "ToolTip": "D:\\TestTaskForCaspel\\BookStoreApi\\Models\\BookDto.cs",
+              "RelativeToolTip": "Models\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T17:26:28.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "IBookRepository.cs",
               "DocumentMoniker": "D:\\TestTaskForCaspel\\BookStoreApi\\Repositories\\IBookRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IBookRepository.cs",
@@ -208,38 +305,11 @@
               "RelativeToolTip": "Repositories\\IBookRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T15:47:35.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T15:47:35.528Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\TestTaskForCaspel\\BookStoreApi\\Entities\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Entities\\AppDbContext.cs",
-              "ToolTip": "D:\\TestTaskForCaspel\\BookStoreApi\\Entities\\AppDbContext.cs",
-              "RelativeToolTip": "Entities\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T15:36:10.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\TestTaskForCaspel\\BookStoreApi\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\TestTaskForCaspel\\BookStoreApi\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-05T15:43:42.17Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "D:\\TestTaskForCaspel\\BookStoreApi\\Entities\\OrderItem.cs",
               "RelativeDocumentMoniker": "Entities\\OrderItem.cs",
@@ -247,12 +317,7 @@
               "RelativeToolTip": "Entities\\OrderItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T15:35:29.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+              "WhenOpened": "2025-08-05T15:35:29.021Z"
             }
           ]
         }

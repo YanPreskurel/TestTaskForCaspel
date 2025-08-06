@@ -8,7 +8,9 @@
       "launchUrl": "todos",
       "applicationUrl": "http://localhost:5219",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "DOTNET_SYSTEM_GLOBALIZATION_INVARIANT": "false",
+        "DOTNET_CULTURE": "en-US"
       }
     }
   }

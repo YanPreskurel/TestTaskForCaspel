@@ -32,8 +32,6 @@ namespace BookStoreApi.Services
             return orderId;
         }
 
-
-
         public async Task<OrderDto?> GetOrderByIdAsync(int id)
         {
             var order = await _orderRepository.GetOrderByIdAsync(id);

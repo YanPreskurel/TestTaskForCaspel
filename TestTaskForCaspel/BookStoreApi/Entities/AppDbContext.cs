@@ -12,6 +12,10 @@ namespace BookStoreApi.Entities
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.Entity<Book>()
+                .Property(b => b.Price)
+                .HasPrecision(18, 2);
+
             base.OnModelCreating(modelBuilder);
         }
     }

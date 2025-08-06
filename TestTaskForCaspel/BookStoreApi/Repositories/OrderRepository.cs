@@ -42,5 +42,13 @@ namespace BookStoreApi.Repositories
         {
             await _context.SaveChangesAsync();
         }
+
+        public async Task<int> CreateOrderAsync(Order order)
+        {
+            await _context.Orders.AddAsync(order); 
+            await _context.SaveChangesAsync();    
+            return order.Id;                    
+        }
+
     }
 }

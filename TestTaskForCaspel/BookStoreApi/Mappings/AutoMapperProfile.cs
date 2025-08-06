@@ -16,12 +16,13 @@ namespace BookStoreApi.Mappings
             CreateMap<Order, OrderDto>();
             CreateMap<OrderDto, Order>();
 
-            // OrderCreateModel -> Order (для создания заказа)
-            CreateMap<OrderCreateModel, Order>();
-
             // Позиция заказа
             CreateMap<OrderItem, OrderItemDto>();
             CreateMap<OrderItemDto, OrderItem>();
+
+            // OrderCreateModel -> Order (для создания заказа)
+            CreateMap<OrderCreateModel, Order>();
+
         }
     }
 }
