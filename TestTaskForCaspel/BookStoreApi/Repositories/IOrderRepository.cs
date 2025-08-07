@@ -9,5 +9,6 @@ namespace BookStoreApi.Repositories
         Task AddOrderAsync(Order order);
         Task SaveChangesAsync();
         Task<int> CreateOrderAsync(Order order);
+        Task<Book?> GetBookByIdAsync(int bookId);
     }
 }

@@ -10,6 +10,9 @@
         public List<OrderItemDto> Items { get; set; } = new();
     }
 
+    /// <summary>
+    /// Модель для возврата информации о заказной позиции.
+    /// </summary>
     public class OrderItemDto
     {
         public int BookId { get; set; }

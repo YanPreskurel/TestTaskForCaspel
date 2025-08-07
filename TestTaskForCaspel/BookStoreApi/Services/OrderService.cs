@@ -24,12 +24,32 @@ namespace BookStoreApi.Services
 
         public async Task<int> CreateOrderAsync(OrderCreateModel model)
         {
-            // Маппим модель создания заказа в сущность Order
-            var orderEntity = _mapper.Map<Order>(model);
+            var order = new Order
+            {
+                OrderNumber = $"ORD-{Guid.NewGuid().ToString().Substring(0, 8)}",
+                OrderDate = DateTime.UtcNow,
+                OrderItems = new List<OrderItem>()
+            };
 
-            var orderId = await _orderRepository.CreateOrderAsync(orderEntity);
+            foreach (var item in model.Items)
+            {
+                // Загружаем книгу по Id
+                var book = await _orderRepository.GetBookByIdAsync(item.BookId);
+                if (book == null)
+                {
+                    throw new Exception($"Book with ID {item.BookId} not found.");
+                }
 
-            return orderId;
+                order.OrderItems.Add(new OrderItem
+                {
+                    BookId = item.BookId,
+                    Book = book,
+                    Quantity = item.Quantity,
+                    Order = order
+                });
+            }
+
+            return await _orderRepository.CreateOrderAsync(order);
         }
 
         public async Task<OrderDto?> GetOrderByIdAsync(int id)

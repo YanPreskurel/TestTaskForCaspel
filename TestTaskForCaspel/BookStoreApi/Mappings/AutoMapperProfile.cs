@@ -8,21 +8,21 @@ namespace BookStoreApi.Mappings
     {
         public AutoMapperProfile()
         {
-            // Книга -> DTO
             CreateMap<Book, BookDto>();
             CreateMap<BookDto, Book>();
 
-            // Заказ -> DTO
-            CreateMap<Order, OrderDto>();
-            CreateMap<OrderDto, Order>();
+            CreateMap<OrderItemCreateModel, OrderItem>();
 
-            // Позиция заказа
-            CreateMap<OrderItem, OrderItemDto>();
-            CreateMap<OrderItemDto, OrderItem>();
+            CreateMap<OrderItem, OrderItemDto>()
+                .ForMember(dest => dest.BookTitle, opt => opt.MapFrom(src => src.Book.Title));
 
-            // OrderCreateModel -> Order (для создания заказа)
-            CreateMap<OrderCreateModel, Order>();
 
+            CreateMap<OrderCreateModel, Order>()
+                .ForMember(dest => dest.OrderItems, opt => opt.MapFrom(src => src.Items));
+
+            CreateMap<Order, OrderDto>()
+                .ForMember(dest => dest.Items, opt => opt.MapFrom(src => src.OrderItems));
         }
     }
+
 }

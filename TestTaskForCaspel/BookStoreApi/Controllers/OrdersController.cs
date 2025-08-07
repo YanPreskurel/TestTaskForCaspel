@@ -15,7 +15,6 @@ namespace BookStoreApi.Controllers
             _orderService = orderService;
         }
 
-
         [HttpGet]
         public async Task<ActionResult<IEnumerable<OrderDto>>> GetOrders(
             [FromQuery] string? orderNumber,
@@ -42,10 +41,13 @@ namespace BookStoreApi.Controllers
         /// Создать новый заказ
         /// </summary>
         [HttpPost]
-        public async Task<ActionResult> CreateOrder(OrderCreateModel model)
+        public async Task<ActionResult<OrderDto>> CreateOrder([FromBody] OrderCreateModel model)
         {
             var orderId = await _orderService.CreateOrderAsync(model);
-            return CreatedAtAction(nameof(GetOrderById), new { id = orderId }, null);
+            var order = await _orderService.GetOrderByIdAsync(orderId);
+
+            return CreatedAtAction(nameof(GetOrderById), new { id = orderId }, order);
         }
+
     }
 }

@@ -33,6 +33,11 @@ namespace BookStoreApi.Repositories
                 .FirstOrDefaultAsync(o => o.Id == id);
         }
 
+        public async Task<Book?> GetBookByIdAsync(int bookId)
+        {
+            return await _context.Books.FirstOrDefaultAsync(b => b.Id == bookId);
+        }
+
         public async Task AddOrderAsync(Order order)
         {
             await _context.Orders.AddAsync(order);
@@ -46,7 +51,8 @@ namespace BookStoreApi.Repositories
         public async Task<int> CreateOrderAsync(Order order)
         {
             await _context.Orders.AddAsync(order); 
-            await _context.SaveChangesAsync();    
+            await _context.SaveChangesAsync();  
+            
             return order.Id;                    
         }
 
